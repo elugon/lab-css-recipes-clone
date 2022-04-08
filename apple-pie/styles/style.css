@@ -1,0 +1,32 @@
+#headBody{
+    display: flex;
+    background-image: url(/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg);
+    height: 800px;
+    width: 1600px;
+  background-size: cover;
+  margin: auto;
+  
+  
+
+    }
+#headBody > h1{
+    display: flex;
+    color: white;
+    font-size: 5em;
+    font-style:italic;
+    align-items: center;
+   text-align: center;
+   margin: auto;
+}
+
+#grandmother{
+    height: 500px;
+    width: 400px; 
+        }
+#grandmother>div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  margin: auto;
+}
