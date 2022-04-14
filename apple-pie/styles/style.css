@@ -48,7 +48,7 @@ ol {
 /*Head image + title*/
 
 #headImage {
-  background-image: url("/images/apple-pie.jpg");
+  background-image: url("../images/apple-pie.jpg");
   height: 90vh;
   width: 80vw;
   display: flex;
